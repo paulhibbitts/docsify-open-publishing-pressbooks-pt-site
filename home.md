@@ -1,6 +1,6 @@
 <div class="guide-cover guide-cover-portrait">
 
-![Presenter Toolkit cover](Pressbooks-Covers-2021-Presenter-toolkit-scaled.jpg ":no-zoom")
+![Presenter Toolkit cover](presenter-toolkit-cover.jpg ":no-zoom")
 
 <div>
 
