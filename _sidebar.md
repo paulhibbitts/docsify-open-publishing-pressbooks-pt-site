@@ -3,3 +3,4 @@
 - [Virtual Presenting Tips](section-4/README.md)
 - Back Matter
   - [More Resources](section-5/more-resources.md)
+  - [Copyright](section-5/copyright.md)

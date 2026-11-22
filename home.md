@@ -22,7 +22,7 @@ Rebecca Shortt
 > **Presenter Toolkit — Imported from Pressbooks**
 >
 >
-> **Authors:** Rebecca Shortt | **License:** CC BY 4.0 | **4 pages**
+> **Authors:** Rebecca Shortt | **License:** CC BY 4.0 | **5 pages**
 >
 > [View original on Pressbooks](https://opentextbc.ca/presentertoolkit/)
 >

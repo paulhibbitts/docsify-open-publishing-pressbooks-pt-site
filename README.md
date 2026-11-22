@@ -10,7 +10,7 @@ The original book is by Rebecca Shortt, published by BCcampus and licensed under
 
 - `home.md` – the book's home page, with its cover image beside it
 - `section-2/` … `section-4/` – its three chapters: Presenting Practices, Slide Design and Virtual Presenting Tips
-- `section-5/` – Back Matter: More Resources
+- `section-5/` – Back Matter: More Resources, and the book's Copyright page (how to credit and cite it, and the cover's credit)
 
 The book has no parts, so each chapter is a section of its own, as Pressbooks shows them. Only the book is moved – the Grav site's other pages, such as its blog and Read Me, stay there. Images stay on Pressbooks, as in the Grav version.
 
