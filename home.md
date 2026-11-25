@@ -19,7 +19,7 @@ Rebecca Shortt
 </div>
 
 > [!IMPORTANT]
-> **Presenter Toolkit — Imported from Pressbooks**
+> **Presenter Toolkit – Imported from Pressbooks**
 >
 >
 > **Authors:** Rebecca Shortt | **License:** CC BY 4.0 | **5 pages**
