@@ -2,7 +2,7 @@
 
 > The Pressbooks book [Presenter Toolkit: Creating and Facilitating an Accessible Presentation](https://opentextbc.ca/presentertoolkit/), brought into Grav Open Publishing Space by the [Grav Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org), then moved to [Docsify-This](https://docsify-this.net/#/) as plain Markdown pages by the [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org).
 
-View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-pt-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&dark-mode=auto&keep-my-place=true&name=Presenter%20Toolkit
+View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-pt-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&collapsibleSidebarGroups=true&dark-mode=auto&keep-my-place=true&name=Presenter%20Toolkit&edit-link=https://raw.githubusercontent.com/paulhibbitts/docsify-open-publishing-pressbooks-pt-site/main/home.md&edit-link-text=This%20page%20as%20Markdown&edit-link-emoji=:page_facing_up:
 
 These pages are the bridge's output as it is, shown like the book in Open Publishing Space: the home page is the book's home page, starting with its cover, title, author and licence, then a card for each chapter. The sidebar lists the chapters and the back matter, and Previous/Next buttons follow the pages in order.
 
