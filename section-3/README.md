@@ -1,6 +1,6 @@
 # Slide Design
 
-[Inclusive Design Webinar Series Part 2: Presentations](https://video.bccampus.ca/id/0_pcdaqr83?width=608&amp;height=402&amp;playerId=23448552). This webinar on inclusive presentation provides more detailed information about the design of your slides and presentation.
+[Inclusive Design Webinar Series Part 2: Presentations](https://video.bccampus.ca/id/0_pcdaqr83?width=608&height=402&playerId=23448552). This webinar on inclusive presentation provides more detailed information about the design of your slides and presentation.
 
 > **Embedded content:** [Inclusive Design Webinar Series Part 2: Presentations](https://opentextbc.ca/presentertoolkit/?p=22#pb-interactive-content) (on the original Pressbooks page)
 
